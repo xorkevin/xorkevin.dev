@@ -1,0 +1,3 @@
+[submodule "themes/compass"]
+	path = themes/compass
+	url = https://github.com/xorkevin/compass.git
