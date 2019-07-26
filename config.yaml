@@ -9,6 +9,7 @@ blackfriday:
   nofollowLinks: true
   noreferrerLinks: true
 copyright: 2019
+uglyurls: true
 permalinks:
   gomod: '/:filename'
 params:
