@@ -8,4 +8,5 @@ description: 'Key derivation function and verifier interface'
 gomod: 'hunter2'
 govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/hunter2'
+aliases: []
 ---
