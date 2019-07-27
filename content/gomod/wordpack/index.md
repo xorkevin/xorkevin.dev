@@ -9,6 +9,6 @@ gomod: 'wordpack'
 govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/wordpack'
 aliases:
-  - xorkevin.dev/wordpack/cmd
-  - xorkevin.dev/wordpack/linebreak
+  - /wordpack/cmd
+  - /wordpack/linebreak
 ---
