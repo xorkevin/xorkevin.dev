@@ -9,6 +9,7 @@ gomod: 'governor'
 govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/governor'
 aliases:
+  - /governor/cmd/gov
   - /governor/service/barcode
   - /governor/service/cache
   - /governor/service/cache/conf
