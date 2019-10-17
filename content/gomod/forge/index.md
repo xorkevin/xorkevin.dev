@@ -9,8 +9,8 @@ gomod: 'forge'
 govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/forge'
 aliases:
-  - /forge/cmd.html
-  - /forge/gen.html
-  - /forge/model.html
-  - /forge/validation.html
+  - /forge/cmd
+  - /forge/gen
+  - /forge/model
+  - /forge/validation
 ---
