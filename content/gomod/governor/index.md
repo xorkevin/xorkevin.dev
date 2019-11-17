@@ -25,6 +25,7 @@ aliases:
   - /governor/service/objstore
   - /governor/service/profile
   - /governor/service/profile/model
+  - /governor/service/pubsub
   - /governor/service/state
   - /governor/service/state/model
   - /governor/service/template
