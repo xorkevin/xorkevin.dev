@@ -2,12 +2,12 @@
 name: 'interchange'
 type: 'gomod'
 title: 'Interchange'
-author: ''
+author: 'xorkevin'
 date: 2020-05-25T17:35:24-07:00
-description: ''
+description: 'Lightweight traffic forwarder'
 gomod: 'interchange'
 govcs: 'git'
-gorepourl: ''
+gorepourl: 'https://github.com/xorkevin/interchange'
 aliases:
  - /interchange
  - /interchange/cmd
