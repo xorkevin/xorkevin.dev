@@ -3,11 +3,6 @@ languageCode: 'en-us'
 title: 'xorkevin.dev'
 theme: 'compass'
 pluralizelisttitles: 'false'
-blackfriday:
-  fractions: false
-  hrefTargetBlank: true
-  nofollowLinks: true
-  noreferrerLinks: true
 copyright: 2019
 uglyurls: true
 permalinks:
