@@ -11,4 +11,6 @@ gorepourl: 'https://github.com/xorkevin/anvil'
 aliases:
  - /anvil/cmd
  - /anvil/component
+ - /anvil/configfile
+ - /anvil/secret/vault
 ---
