@@ -14,15 +14,14 @@ aliases:
  - /governor/service/courier
  - /governor/service/courier/model
  - /governor/service/db
+ - /governor/service/events
  - /governor/service/fileloader
  - /governor/service/image
  - /governor/service/kvstore
  - /governor/service/mail
- - /governor/service/msgqueue
  - /governor/service/objstore
  - /governor/service/profile
  - /governor/service/profile/model
- - /governor/service/pubsub
  - /governor/service/state
  - /governor/service/state/model
  - /governor/service/template
@@ -32,7 +31,14 @@ aliases:
  - /governor/service/user/approval/model
  - /governor/service/user/gate
  - /governor/service/user/model
+ - /governor/service/user/oauth
+ - /governor/service/user/oauth/connection/model
+ - /governor/service/user/oauth/model
+ - /governor/service/user/org
+ - /governor/service/user/org/model
+ - /governor/service/user/reset/model
  - /governor/service/user/role
+ - /governor/service/user/role/invitation/model
  - /governor/service/user/role/model
  - /governor/service/user/session/model
  - /governor/service/user/token
