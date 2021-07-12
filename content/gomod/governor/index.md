@@ -22,6 +22,7 @@ aliases:
  - /governor/service/objstore
  - /governor/service/profile
  - /governor/service/profile/model
+ - /governor/service/ratelimit
  - /governor/service/state
  - /governor/service/state/model
  - /governor/service/template
