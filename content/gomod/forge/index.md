@@ -10,7 +10,7 @@ govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/forge'
 aliases:
  - /forge/cmd
- - /forge/gen
  - /forge/model
  - /forge/validation
+ - /forge/writefs
 ---
