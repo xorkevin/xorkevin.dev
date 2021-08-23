@@ -11,6 +11,8 @@ gorepourl: 'https://github.com/xorkevin/governor'
 aliases:
  - /governor/service/barcode
  - /governor/service/cachecontrol
+ - /governor/service/conduit
+ - /governor/service/conduit/chat/model
  - /governor/service/courier
  - /governor/service/courier/model
  - /governor/service/db
