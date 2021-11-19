@@ -2,12 +2,12 @@
 name: 'mailcat'
 type: 'gomod'
 title: 'Mailcat'
-author: ''
+author: 'xorkevin'
 date: 2021-11-19T02:45:27-08:00
-description: ''
+description: 'A mail and smtp test tool'
 gomod: 'mailcat'
 govcs: 'git'
-gorepourl: ''
+gorepourl: 'https://github.com/xorkevin/mailcat'
 aliases:
  - /mailcat/cmd
  - /mailcat/formatter
