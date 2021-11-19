@@ -8,6 +8,5 @@ description: 'A simple lexer and parser'
 gomod: 'gnom'
 govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/gnom'
-aliases:
- - /gnom
+aliases: []
 ---

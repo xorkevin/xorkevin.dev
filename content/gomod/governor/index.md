@@ -9,6 +9,7 @@ gomod: 'governor'
 govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/governor'
 aliases:
+ - /governor/example/cmd
  - /governor/service/barcode
  - /governor/service/cachecontrol
  - /governor/service/conduit
@@ -21,6 +22,8 @@ aliases:
  - /governor/service/image
  - /governor/service/kvstore
  - /governor/service/mail
+ - /governor/service/mailinglist
+ - /governor/service/mailinglist/model
  - /governor/service/objstore
  - /governor/service/profile
  - /governor/service/profile/model
@@ -46,6 +49,7 @@ aliases:
  - /governor/service/user/session/model
  - /governor/service/user/token
  - /governor/util/bytefmt
+ - /governor/util/dns
  - /governor/util/rank
  - /governor/util/score
  - /governor/util/uid
