@@ -2,11 +2,11 @@
 name: 'kerrors'
 type: 'gomod'
 title: 'Kerrors'
-author: ''
+author: 'xorkevin'
 date: 2022-08-20T18:49:51-07:00
-description: ''
+description: 'Errors with context'
 gomod: 'kerrors'
 govcs: 'git'
-gorepourl: ''
+gorepourl: 'https://github.com/xorkevin/kerrors'
 aliases: []
 ---
