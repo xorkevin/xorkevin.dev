@@ -9,6 +9,6 @@ gomod: 'fsserve'
 govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/fsserve'
 aliases:
- - /fsserve/cmd
- - /fsserve/serve
+  - /fsserve/cmd
+  - /fsserve/serve
 ---

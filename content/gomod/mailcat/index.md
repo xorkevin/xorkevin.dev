@@ -9,9 +9,9 @@ gomod: 'mailcat'
 govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/mailcat'
 aliases:
- - /mailcat/cmd
- - /mailcat/formatter
- - /mailcat/send
- - /mailcat/transformer
- - /mailcat/uid
+  - /mailcat/cmd
+  - /mailcat/formatter
+  - /mailcat/send
+  - /mailcat/transformer
+  - /mailcat/uid
 ---

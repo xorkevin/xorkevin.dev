@@ -9,6 +9,6 @@ gomod: 'interchange'
 govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/interchange'
 aliases:
- - /interchange/cmd
- - /interchange/forwarder
+  - /interchange/cmd
+  - /interchange/forwarder
 ---
