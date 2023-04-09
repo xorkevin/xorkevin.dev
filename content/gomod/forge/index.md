@@ -13,5 +13,4 @@ aliases:
   - /forge/gopackages
   - /forge/model
   - /forge/validation
-  - /forge/writefs
 ---

@@ -11,6 +11,11 @@ gorepourl: 'https://github.com/xorkevin/anvil'
 aliases:
   - /anvil/cmd
   - /anvil/component
-  - /anvil/configfile
+  - /anvil/confengine
+  - /anvil/confengine/jsonnetengine
+  - /anvil/repofetcher
+  - /anvil/repofetcher/gitfecher
+  - /anvil/repofetcher/localdir
   - /anvil/secret/vault
+  - /anvil/util/kjson
 ---
