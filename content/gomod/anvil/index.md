@@ -14,7 +14,7 @@ aliases:
   - /anvil/confengine
   - /anvil/confengine/jsonnetengine
   - /anvil/repofetcher
-  - /anvil/repofetcher/gitfecher
+  - /anvil/repofetcher/gitfetcher
   - /anvil/repofetcher/localdir
   - /anvil/secret/vault
   - /anvil/util/kjson
