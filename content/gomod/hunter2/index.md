@@ -11,7 +11,7 @@ gorepourl: 'https://github.com/xorkevin/hunter2'
 aliases:
   - /hunter2/h2cipher
   - /hunter2/h2cipher/aes
-  - /hunter2/h2cipher/chacha20poly1305
+  - /hunter2/h2cipher/xchacha20poly1305
   - /hunter2/h2hash
   - /hunter2/h2hash/blake2b
   - /hunter2/h2hash/passhash/scrypt
@@ -21,7 +21,7 @@ aliases:
   - /hunter2/h2signer/hs512
   - /hunter2/h2signer/rs256
   - /hunter2/h2streamcipher
-  - /hunter2/h2streamcipher/chacha20
+  - /hunter2/h2streamcipher/xchacha20
   - /hunter2/h2streamhash
   - /hunter2/h2streamhash/blake2bstream
 ---
