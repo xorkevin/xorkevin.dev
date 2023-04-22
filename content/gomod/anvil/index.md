@@ -12,10 +12,17 @@ aliases:
   - /anvil/cmd
   - /anvil/component
   - /anvil/confengine
+  - /anvil/confengine/gotmplengine
   - /anvil/confengine/jsonnetengine
+  - /anvil/confengine/staticfile
   - /anvil/repofetcher
   - /anvil/repofetcher/gitfetcher
   - /anvil/repofetcher/localdir
   - /anvil/secret/vault
   - /anvil/util/kjson
+  - /anvil/util/ktime
+  - /anvil/util/stackset
+  - /anvil/workflow
+  - /anvil/workflowengine
+  - /anvil/workflowengine/starlarkengine
 ---
