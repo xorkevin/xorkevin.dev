@@ -12,5 +12,6 @@ aliases:
   - /forge/cmd
   - /forge/gopackages
   - /forge/model
+  - /forge/model/sqldb
   - /forge/validation
 ---
