@@ -18,8 +18,8 @@ aliases:
   - /hunter2/h2otp
   - /hunter2/h2signer
   - /hunter2/h2signer/eddsa
-  - /hunter2/h2signer/hs512
-  - /hunter2/h2signer/rs256
+  - /hunter2/h2signer/hmac
+  - /hunter2/h2signer/rsa
   - /hunter2/h2streamcipher
   - /hunter2/h2streamcipher/xchacha20
   - /hunter2/h2streamhash
