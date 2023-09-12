@@ -14,6 +14,7 @@ aliases:
   - /hunter2/h2cipher/xchacha20poly1305
   - /hunter2/h2hash
   - /hunter2/h2hash/blake2b
+  - /hunter2/h2hash/passhash/argon2
   - /hunter2/h2hash/passhash/scrypt
   - /hunter2/h2otp
   - /hunter2/h2signer
