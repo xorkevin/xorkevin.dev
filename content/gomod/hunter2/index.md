@@ -25,4 +25,6 @@ aliases:
   - /hunter2/h2streamcipher/xchacha20
   - /hunter2/h2streamhash
   - /hunter2/h2streamhash/blake2bstream
+  - /hunter2/h2streamhash/blake3stream
+  - /hunter2/h2streamhash/sha256stream
 ---

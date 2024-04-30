@@ -10,5 +10,7 @@ govcs: 'git'
 gorepourl: 'https://github.com/xorkevin/fsserve'
 aliases:
   - /fsserve/cmd
+  - /fsserve/db
   - /fsserve/serve
+  - /fsserve/serve/treedbmodel
 ---

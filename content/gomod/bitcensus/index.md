@@ -13,5 +13,9 @@ aliases:
   - /bitcensus/census/censusdbmodel
   - /bitcensus/cmd
   - /bitcensus/dbsql
+  - /bitcensus/parity
+  - /bitcensus/pb/parityv0
+  - /bitcensus/protos
+  - /bitcensus/reedsolomon
   - /bitcensus/util/bytefmt
 ---
