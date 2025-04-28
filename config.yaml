@@ -6,6 +6,6 @@ pluralizelisttitles: 'false'
 copyright: 2019
 uglyurls: true
 permalinks:
-  gomod: '/:filename'
+  gomod: '/:contentbasename'
 params:
   gomodroot: 'xorkevin.dev'
